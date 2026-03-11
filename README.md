@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Prova Técnica Nasajon – Enriquecimento de Municípios</title>
-</head>
-<body>
-
 <h1>Prova Técnica Nasajon – Enriquecimento de Municípios</h1>
 
 <h2>Visão Geral</h2>
