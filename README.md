@@ -48,7 +48,7 @@ ACCESS_TOKEN=""
 
 <h2>Estatísticas Calculadas</h2>
 <ul>
-  <li><code>pop_total_ok</code> – soma da total da população</li>
+  <li><code>pop_total_ok</code> – soma total da população</li>
   <li><code>medias_por_regiao</code> – média de população por região, considerando cada município apenas uma vez</li>
 </ul>
 
