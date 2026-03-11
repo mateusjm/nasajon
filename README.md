@@ -1,4 +1,4 @@
-<h1>Prova Técnica Nasajon – Enriquecimento de Municípios</h1>
+<h1>Prova Técnica Nasajon
 
 <h2>Visão Geral</h2>
 <p>Este projeto lê um arquivo <code>input.csv</code> com municípios e populações, faz o <strong>enriquecimento com dados oficiais do IBGE</strong>, gera um <code>resultado.csv</code>, calcula estatísticas e envia automaticamente essas estatísticas para a <strong>API de correção da Nasajon</strong> usando o <code>ACCESS_TOKEN</code> obtido via login no Supabase.</p>
